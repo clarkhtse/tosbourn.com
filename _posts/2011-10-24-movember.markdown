@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Movember
+author:
+  display_name: Toby
+  login: admin
+  email: toby.osbourn@googlemail.com
+  url: ''
+author_login: admin
+author_email: toby.osbourn@googlemail.com
+wordpress_id: 630
+wordpress_url: http://tosbourn.com/?p=630
+date: '2011-10-24 11:40:46 +0100'
+date_gmt: '2011-10-24 10:40:46 +0100'
+categories:
+- Other
+tags:
+- Movember
+- Charity
+comments: []
+---
+<p>I am taking part in Movember this year.</p>
+<p>I won't bore you with the details but essentially it is raising money and awareness for male cancers by growing a moustache for a month!</p>
+<p>It would be awesome if you could sponsor me! You can at this link -&gt; <a href="http://mobro.co/tosbourn" target="_blank">http://mobro.co/tosbourn</a>, and please pass the link onto your friends!</p>

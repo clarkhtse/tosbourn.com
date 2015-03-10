@@ -1,0 +1,61 @@
+---
+layout: post
+status: publish
+published: true
+title: Hit Tail
+author:
+  display_name: Toby
+  login: admin
+  email: toby.osbourn@googlemail.com
+  url: ''
+author_login: admin
+author_email: toby.osbourn@googlemail.com
+wordpress_id: 917
+wordpress_url: http://tosbourn.com/?p=917
+date: '2012-04-04 09:45:12 +0100'
+date_gmt: '2012-04-04 08:45:12 +0100'
+categories:
+- Reviews
+tags:
+- TechZing
+- Hit Tail
+- Rob Walling
+comments:
+- id: 125
+  author: Manuel Lemos
+  author_email: mlemos@acm.org
+  author_url: http://twitter.com/manuellemos
+  date: '2012-04-05 11:58:00 +0100'
+  date_gmt: '2012-04-05 10:58:00 +0100'
+  content: |-
+    I have been willing to try this service for a while and I just did.
+
+    It seems that it is not working well because most Google search referral nowadays do not pass the searched keywords. This will make it hard for Hittail get any keywords suggestions.
+
+    Another puzzling aspect is that Hittail counts as hits referrals from sites that are not search sites and so they do not provide any keywords to feed the suggestion mechanism.
+
+    I was willing to visit their forum site but the forum has vanished. It just redirects to the home page. Seems that either they disabled the forum on purpose or it was a mistake. Let me try the support contact.
+- id: 126
+  author: Toby Osbourn
+  author_email: toby.osbourn@googlemail.com
+  author_url: http://www.tosbourn.com/
+  date: '2012-04-05 12:21:00 +0100'
+  date_gmt: '2012-04-05 11:21:00 +0100'
+  content: |-
+    Thanks for your comment Manuel!
+
+    Hopefully they will get back to you pretty quickly answering your questions - as I said in the article any experience of support I have had has been positive.
+
+    I know they don't like to talk too much about the algorithm that runs it because it is pretty unique.
+---
+<p><a href="http://mbsy.co/pfN"><img class="alignright size-full wp-image-2154" src="http://tosbourn.com/wp-content/uploads/2012/04/hittail_logo_burger_conquest_in_n_out_review_burgerfi_tgi_fridays_burger_breakfast_sausage_meatballs_brother_jimmys_pork_roll_keizo.jpg" alt="Hit Tail" width="300" height="161" />Hit Tail</a> is a service for recommending you key phrases to focus on for potential topics based on what people are searching for to find your site.</p>
+<p>I first found out about Hit Tail from the <a href="http://techzinglive.com/page/921/165-tz-interview-rob-walling-hittal">Techzing Live podcast</a> some time ago, Rob Walling was being interviewed about his acquisition of the company - It is a really interesting listen and I would highly recommend you check it out.</p>
+<p>Hit Tail takes a note of what key words and phrases people were using when visiting your site from search engines, then I believe it takes those phrases and runs a check to see how well you would rank if you had content focused on those phrases.</p>
+<p>I can imagine that is pretty powerful stuff for people who sell something on-line and want to focus on the long tail to get regular search traffic.  I sell online with both this site and my <a href="http://thefootytipster.com">football betting</a> website, but the reason I wanted in on it was because I was always struggling for content to write on the various sites I look after - I figured why not let my traffic tell me what to write.</p>
+<p>So I signed up for a months free trail and hooked it up to a couple of sites - almost immediately I started getting back statistics and results, which is excellent. Normally you are always looking at information that was processed 24 hours ago.</p>
+<p>The method they used to use was to get you to include some JavaScript, I can't say that I noticed any speed difference in the site whilst it was running so I didn't mind too much.</p>
+<p>Now the process is even better, you link your Google Webmaster Tools up with Hit Tail and the results come from there. I believe this is due in part to the ever increase (not set) problems faced in Google Analytics.</p>
+<p>One of the things I noticed early on was a bug were some of the tables didn't update properly when I was using Firefox on the mac, I submitted a bug report and had an email back from Rob within hours as I recall asking for more information and basically getting back to me in a really personal way - I think it was the most positive I have felt about submitting a bug report ever, which is mental (but excellent).</p>
+<p>During my usage of the system I found some other issues, each was either resolved quickly or I was given updates on when they would be resolved, I should mention at this time it was still having a lot of work done to it, so I didn't take the bugs as a sign of any weakness - the main algorithm seemed to be working fine and producing actionable results.</p>
+<p>One of the articles I wrote off the back of the results was <a title="Permanent Link to CakePHP 2.0 Read Recursive" href="../2012/01/development/cakephp-2-0-read-recursive/" rel="bookmark">CakePHP 2.0 Read Recursive</a> which currently appears 5th in Google for the search phrase and I know that at least some people will find it because that is what someone searched for before to find my site.</p>
+<p>Should you check it Hit Tail? <a href="http://mbsy.co/pfN">Yes</a>.</p>

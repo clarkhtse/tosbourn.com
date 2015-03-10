@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: HTML5 Video
+author:
+  display_name: Toby
+  login: admin
+  email: toby.osbourn@googlemail.com
+  url: ''
+author_login: admin
+author_email: toby.osbourn@googlemail.com
+wordpress_id: 168
+wordpress_url: http://www.tosbourn.com/?p=168
+date: '2009-09-23 01:20:01 +0100'
+date_gmt: '2009-09-23 00:20:01 +0100'
+categories:
+- Other
+tags: []
+comments: []
+---
+<p>This video is a really excellent introduction to HTML5, a must for people who have heard the hype but don't really have the time to read the slew of blog articles about it.  It also includes a nice introduction about where we are now and how we got there.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://vimeo.com/moogaloop.swf?clip_id=6691519&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://vimeo.com/moogaloop.swf?clip_id=6691519&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><a href="http://vimeo.com/6691519">Introduction to HTML 5</a> from <a href="http://vimeo.com/user1005914">Brad Neuberg</a> on <a href="http://vimeo.com">Vimeo</a>.</p>

@@ -1,0 +1,95 @@
+---
+layout: post
+status: publish
+published: true
+title: 365 Articles in 2015
+author:
+  display_name: Toby
+  login: admin
+  email: toby.osbourn@googlemail.com
+  url: ''
+author_login: admin
+author_email: toby.osbourn@googlemail.com
+wordpress_id: 2391
+wordpress_url: http://tosbourn.com/?p=2391
+date: '2015-01-01 05:08:10 +0000'
+date_gmt: '2015-01-01 04:08:10 +0000'
+categories:
+- Other
+tags:
+- '365'
+comments: []
+---
+<p>Something I really let go to pot in 2014 was the amount that I wrote online. I enjoy writing and want to try and force myself to do more of it. This is why in 2015 I am going to attempt to commit to writing 365 articles. Before you deem me insane, here are the rules.</p>
+<h2>My Arbitrary Rules for this Arbitrary Goal</h2>
+<ul>
+<li>It isn't an article a day, I could have days without any and suddenly five appear at once.</li>
+<li>They don't have to be all on my blog, in fact I will be contacting people to try and get guest posts and will be writing more on other sites I already contribute to.</li>
+<li>They don't have to appear on a blog at all, so long as they are publicly accessible it will count (for example I might do longer Ello posts, or something like that).</li>
+<li>Each article should be at least 300 words, this is to stop me writing really quick updates and hopefully means the articles have substance.  (This means that if all goes well I will have written over 109500 words by the end of this, pretty cool!)</li>
+<li>The content can be pretty much anything, it will likely stay within the confines of what I normally write about but we shall see!</li>
+<li>I can ignore any of the above rules should I decide to.</li>
+</ul>
+<h2>Keeping up to date with my progress</h2>
+<p>At the bottom of this post I will keep a running tally of all the articles, this will likely be updated once a week or so, if you don't see it being updated as often as you think please do give me a poke and let me know! I will likely be tweeting about new articles and things I put out, if you don't follow me now might be a good time! <a href="https://twitter.com/tosbourn">@tosbourn</a></p>
+<h2>Do you think I can do it?</h2>
+<p>Do you think this is something I can stick to? Let me know on Twitter or better yet leave a comment!</p>
+<h2>Do you run a site?</h2>
+<p>If you run a site and would be interested in having me write something for you please <a href="mailto:toby.osbourn@gmail.com">drop me an email</a>. As well as getting free content without an agenda I will be linking to it here and other places.</p>
+<h2>The Articles</h2>
+<ol>
+<li>You are reading the very first article at the moment</li>
+<li><a href="https://thefootytipster.com/tfts-2014-year-in-review/">A recap of 2014 on The Footy Tipster</a></li>
+<li><a href="https://ello.co/tosbourn/post/Irl0jXjQP4qsBsb4VJVZuQ">My Ello New Year Resolutions</a></li>
+<li><a href="/imagine-ram-erroring/">Imagine your RAM was erroring</a></li>
+<li><a href="http://tosbourn.com/rough-guide-going-try-follow-blog-posts/">My Blog Post Guide</a></li>
+<li><a href="https://www.goodreads.com/review/show/1136764060">My Review of Veins</a></li>
+<li><a href="http://tosbourn.com/backblaze-part-great-backup-solution/">Me talking about Backblaze</a></li>
+<li><a href="http://tosbourn.com/gender-neutral-swear-words/" title="Gender Neutral Swear Words">Gender Neutral Swear Words</a></li>
+<li><a href="http://tosbourn.com/review-web-everyone-designing-accessible-user-experiences/">Review: A Web for Everyone</a></li>
+<li><a href="http://tosbourn.com/every-developer-makes-mistakes-all-the-time/">Every Developer makes mistakes all of the time</a></li>
+<li><a href="http://rumblelabs.com/blog/francis-davey-talks-law-for-startups/">My writeup of Francis Davey's talk on Law for Startups</a></li>
+<li><a href="http://tosbourn.com/what-the-header-element-can-be-used-for/">What the <code>&lt;header&gt;</code> element can be used for</a> </li>
+<li><a href="http://tosbourn.com/birthday-haul/" title="My Birthday Haul">My Birthday Haul</a> </li>
+<li><a href="https://www.polemicdigital.com/2015/01/every-web-developer-know-seo/">What every web developer should know about SEO</a> </li>
+<li><a href="http://collectionofawesome.com/2015/01/14/great-iphone-games-to-play-on-the-toilet/">Great iPhone games to play on the toilet</a> </li>
+<li><a href="http://tosbourn.com/thoughts-nuu/" title="My thoughts on Nuu">My thoughts on Nuu</a> </li>
+<li><a href="http://tosbourn.com/using-omnifocus/" title="How I am using Omnifocus">How I am using Omnifocus</a> </li>
+<li><a href="https://thefootytipster.com/the-top-memes-of-2014/">Top football memes of 2014</a> </li>
+<li><a href="http://tosbourn.com/accessibility-seo-tightly-linked/" title="Accessibility and SEO are tightly linked">SEO and Accessibility are tightly linked</a> </li>
+<li><a href="http://tosbourn.com/quick-semantic-wins/">Some quick semantic wins</a> </li>
+<li><a href="http://tosbourn.com/stumbling-blocks-hit-following-first-swift-tutorial/">Some stumbling blocks I hit following my first Swift tutorial</a> </li>
+<li><a href="http://tosbourn.com/correct-way-markup-image-caption-html/">How you should properly caption an image in HTML</a> </li>
+<li><a href="http://tosbourn.com/view-markdown-files-terminal/" title="View Markdown Files in your Terminal">A way to view Markdown files in your terminal</a> </li>
+<li><a href="http://tosbourn.com/highlights-shortness-life-seneca/" title="My highlights from On the Shortness of Life by Seneca">Some of my notes from Seneca's On the Shortness of Life</a> </li>
+<li><a href="http://tosbourn.com/making-app-just-hour-meteor-heroku/" title="Making an app in just over an hour with Meteor and Heroku">Making an app in an hour with Meteor and Heroku</a> </li>
+<li><a href="https://thefootytipster.com/interview-with-chris-from-mondogoal/">Interview with Chris from MongoGoal</a> </li>
+<li><a href="http://tosbourn.com/365-blog-post-project-1-month/">My one month in update on this project</a> </li>
+<li><a href="https://nostrongbeliefs.com/the-case-for-accessible-web-design/">The case for accessible web design</a> </li>
+<li><a href="http://tosbourn.com/time-buffer-wasnt-great/" title="My time at Buffer wasn’t great">My time at Buffer wasn't great</a> </li>
+<li><a href="http://tosbourn.com/divs-still-place/" title="Divs still have their place">Divs still have their place</a> </li>
+<li><a href="http://tosbourn.com/useful-resources-generating-content-ideas/" title="Some useful resources for generating content ideas">Useful resources for content generation ideas</a> </li>
+<li><a href="http://tosbourn.com/podcasts-enjoying-update/" title="Podcasts I am enjoying – An update">An update to some podcasts I have been enjoying</a> </li>
+<li><a href="http://tosbourn.com/thoughts-latest-techhubtuesday-demo-night/" title="My thoughts on the latest TechHubTuesday Demo Night">My thoughts on the latest TechHubTuesday</a> </li>
+<li><a href="http://tosbourn.com/hearthstone-apis/">My research into Hearthstone APIs</a> </li>
+<li><a href="https://thefootytipster.com/great-places-to-get-football-news/">Some great places to get football news</a> </li>
+<li><a href="http://tosbourn.com/please-dont-actually-use-retweet-favourite-polls-twitter/">Please don't actually use retweet/favourite polls on twitter</a> </li>
+<li><a href="http://tosbourn.com/tosbourn-facebook-page/">Tosbourn.com now has a facebook page</a> </li>
+<li><a href="https://nuu.in/blog/the-best-new-fish-and-chip-shops-in-london">The best new fish &amp; chip shops in London</a> </li>
+<li><a href="http://thetomorrowlab.com/2015/02/why-web-developers-should-use-version-control/">Why web developers should be using version control</a> </li>
+<li><a href="http://tosbourn.com/set-intersection-in-ruby/">Set Intersection in Ruby</a> </li>
+<li><a href="https://thefootytipster.com/the-difference-between-asian-and-european-handicaps/">The difference between Asian and European handicap betting</a> </li>
+<li><a href="https://thefootytipster.com/why-we-dont-give-out-free-trials/">Why The Footy Tipster doesn't give out free trials</a> </li>
+<li><a href="http://tosbourn.com/getting-rid-of-vintage-belfast-do-you-want-it/">Selling Vintage Belfast</a></li>
+<li><a href="http://tosbourn.com/a-beginners-guide-to-aria/">Beginners Guide to ARIA</a></li>
+<li><a href="http://creeped.in/about/">About section for CreepedIn</a></li>
+<li><a href="http://tosbourn.com/creepedin/">Writing about CreepedIn</a></li>
+<li><a href="http://tosbourn.com/using-monodraw-for-fun-tweets/">Using Monodraw for making fun tweets</a></li>
+<li><a href="http://tosbourn.com/rails-migrations-for-beginners/">Rails migrations for beginners</a></li>
+<li><a href="http://tosbourn.com/facebooks-anonymous-login/">My thoughts on Facebook's Anonymous Login</a></li>
+<li><a href="http://tosbourn.com/css-last-of-type-as-a-fix-for-last-child-in-ember-applications/">CSS last-of-type</a></li>
+<li><a href="http://us2.campaign-archive1.com/?u=4ab9d94bd25204029f15769a8&amp;id=b365806aa8">My first email out to subscribers</a></li>
+<li><a href="http://tosbourn.com/good-habits-for-student-developers-backups/">Good Habits for Student Developers – Part 1 – Backups</a></li>
+<li><a href="http://tosbourn.com/squash-br-inside-contenteditable/">Squash a BR inside ContentEditable</a></li>
+<li><a href="http://tosbourn.com/innovation-enterprise/">Announcing my move to Innovation Enterprise</a></li>
+</ol>

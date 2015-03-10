@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: I fucked up
+author:
+  display_name: Toby
+  login: admin
+  email: toby.osbourn@googlemail.com
+  url: ''
+author_login: admin
+author_email: toby.osbourn@googlemail.com
+wordpress_id: 2278
+wordpress_url: http://tosbourn.com/?p=2278
+date: '2014-08-08 21:43:02 +0100'
+date_gmt: '2014-08-08 20:43:02 +0100'
+categories:
+- Personal
+tags: []
+comments: []
+---
+<p>I fucked up.</p>
+<p>Recently I wrote a book about how to make money online and self published it, I did it for all the wrong reasons and I rushed it because of those wrong reasons.</p>
+<p>As a result I have put something out there that is of poor quality and a terrible reflection of what I am capable of.</p>
+<p>I have let down anyone who bought it, anyone that shared the news it was out and basically anyone involved.</p>
+<p>If you have bought the book in the next 24 hours you will be getting a refund from PayPal, I am very sorry.</p>
+<p>I will also be pulling the book from this site and from Amazon.</p>
+<p>I won't be making the same mistake again, I promise.</p>
