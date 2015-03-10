@@ -65,6 +65,7 @@ GEM
     redcarpet (3.2.2)
     safe_yaml (1.0.4)
     sass (3.4.13)
+    sequel (4.20.0)
     timers (4.0.1)
       hitimes
     toml (0.1.2)
@@ -77,3 +78,4 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-import
+  sequel
