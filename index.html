@@ -4,27 +4,21 @@ layout: default
 
 <div class="home">
 
-  <nav>
-    Hello there,<br/>
-
-    I am Toby - welcome to my site!<br/>
-
-    I mainly talk about web development and tech, that can take the form of reviews I have done on development books and stuff, interviews I have conducted with some awesome industry folk, development help guides I have posted for things I have been stuck on in the past, random other tech topics, and even the odd personal item.
-  </nav>
-  <h1 class="page-heading">Posts</h1>
+    <img src="{{ site.baseurl }}/img/toby.jpeg" class="toby"/>
+    <div class="blurb">
+      <p>
+        I am a Ruby and JavaScript engineer from Belfast but living in London.
+      </p>
+      <p>
+        I hope you enjoy my articles, if you have any questions please feel free to comment on them or contact me using the links in the footer.
+      </p>
+    </div>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> – <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

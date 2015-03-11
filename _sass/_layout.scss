@@ -11,7 +11,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 35px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -156,6 +156,18 @@
     }
 }
 
+.toby {
+  width: 35%;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 2.5%;
+}
+
+.blurb {
+  width: 60%;
+  display:inline-block;
+}
+
 
 
 /**
@@ -174,7 +186,7 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-top: $spacing-unit;
     }
 }
 
@@ -184,8 +196,7 @@
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 
