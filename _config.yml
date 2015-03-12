@@ -3,7 +3,7 @@ title: Development Thoughts
 email: toby.osbourn@gmail.com
 description: Thoughts and musings on web development and other topics
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://tosbourn.com" # the base hostname & protocol for your site
 twitter_username: tosbourn
 github_username:  tosbourn
 permalink: /:title
