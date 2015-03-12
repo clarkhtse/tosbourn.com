@@ -149,6 +149,60 @@ pre {
 }
 
 
+.socialshares {
+  margin: 40px 0;
+}
+
+.social {
+  padding: 1%;
+  display: inline-block;
+  margin-right: 1.5%;
+  text-decoration: none;
+}
+
+.facebook {
+  background-color: #3C5A98;
+  color: #FFFFFF;
+  &:visited { color: #FFF; }
+}
+
+.twitter {
+  background-color: #DBF7F8;
+  color: #2D6491;
+  &:visited { color: #2D6491; }
+}
+
+.google {
+  background-color: #D14836;
+  color: #FFFFFF;
+  &:visited { color: #FFF; }
+}
+
+.linkedin {
+  background-color: #185C80;
+  color: #FFFFFF;
+  &:visited { color: #000; }
+}
+
+.reddit {
+background-color: #CEE3F8;
+color: #000000;
+&:visited { color: #000; }
+}
+
+.hackernews {
+background-color: #FF6600;
+color: #000000;
+&:visited { color: #000; }
+}
+
+.buffer {
+background-color: #70BE6A;
+color: #FFFFFF;
+&:visited { color: #FFF; }
+}
+
+
 
 /**
  * Wrapper
