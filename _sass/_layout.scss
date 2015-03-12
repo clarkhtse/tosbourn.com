@@ -23,6 +23,31 @@
     }
 }
 
+.ads {
+  float: right;
+  width: 25%;
+  padding-left: 5%;
+  text-align: center;
+  font-size: small;
+}
+
+.carbon-img img {
+  margin: 0 auto;
+  display: block;
+}
+
+.carbon-wrap {
+  display: inline-block;
+}
+
+.other-links {
+  margin-left: 0;
+  
+  li {
+    list-style: none;
+  }
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
