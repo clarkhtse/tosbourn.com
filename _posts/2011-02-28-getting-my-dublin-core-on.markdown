@@ -27,7 +27,7 @@ comments: []
 <p>I may as well start off this post with a description of what Dublin Core which I have taken straight from the <a href="http://dublincore.org/" target="_blank">official Dublin Core homepage</a>;</p>
 <blockquote><p>The mission of the Dublin Core Metadata Initiative is to provide simple standards to facilitate the finding, sharing and management of information.</p></blockquote>
 <p>You can read more about Dublin Core at the <a href="http://dublincore.org/about-us/" target="_blank">Dublin Core 'About' page</a> but essentially it is some meta data you can chuck into the markup of your site which will get used by various different spiders and crawlers to help categorise your website.  Here is what I have added to my markup on this website;</p>
-<p>[caption id="attachment_382" align="aligncenter" width="511"]<img class="size-full wp-image-382 " title="Dublin Core Example" src="http://www.tosbourn.com/wp-content/uploads/2011/02/Screenshot.png" alt="Dublin Core Example" width="511" height="279" /> Dublin Core Example[/caption]</p>
+<p><img class="size-full wp-image-382 " title="Dublin Core Example" src="http://www.tosbourn.com/wp-content/uploads/2011/02/Screenshot.png" alt="Dublin Core Example" width="511" height="279" /> Dublin Core Example</p>
 <h2>Why Use Dublin Core?</h2>
 <p>I am sure there is a part of you thinking, but we already have meta data, why would we bother bloating out our code with this stuff?</p>
 <p>I had initially thought pretty much exactly that but a handful of things made me decide to go ahead and use it;</p>
