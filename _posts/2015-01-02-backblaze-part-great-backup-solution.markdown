@@ -42,7 +42,8 @@ comments: []
 <p>At the time I wasn’t concerned with Time Machine backups (I should have been) but I did have both Backblaze and Dropbox so I was easily able to grab the files I needed super quick.</p>
 <p>(side note: if it wasn't for <a href="https://twitter.com/takete">Nick</a> recommending Backblaze a few weeks previous I would have been shafted!)</p>
 <p>Backblaze even has the option to ship out your data on a hard drive if that is easier for you, I believe this is a paid offering but if you have gigabytes upon gigabytes of data it would make a lot of sense.</p>
-<img class="size-full wp-image-2417" src="http://tosbourn.com/wp-content/uploads/2015/01/backups.jpg" alt="Toy ninjas fighting" width="640" height="480" /></a> I searched DuckDuckGo Images for "Backups Save the Day" and this was one of the results. Amazing.
+<figure><img class="size-full wp-image-2417" src="http://tosbourn.com/wp-content/uploads/2015/01/backups.jpg" alt="Toy ninjas fighting" width="640" height="480" />
+<figcaption>I searched DuckDuckGo Images for "Backups Save the Day" and this was one of the results. Amazing.</figcaption></figure>
 <h2>To sum up</h2>
 <p>I am sure there are other solutions out there and I must confess I haven’t done any rigorous testing between different backup solutions but I don’t feel I need to – I have found Backblaze and it is awesome!</p>
 <p>If you don’t back up your computer remotely you really should, it is only a matter of time before something goes wrong.</p>
