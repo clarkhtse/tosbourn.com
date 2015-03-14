@@ -14,7 +14,7 @@ tags:
 - OSx
 ---
 
-	I recently moved from WordPress to Jekyll for managing my blog. The move went smoothly, the biggest content issue was that any images I had with captions were not in the correct format.
+I recently moved from WordPress to Jekyll for managing my blog. The move went smoothly, the biggest content issue was that any images I had with captions were not in the correct format.
 
 This meant that some of my posts were littered with text like `[caption id=...]` and `[/caption]`. I wanted to remove these tags.
 
