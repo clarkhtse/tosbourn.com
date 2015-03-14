@@ -38,7 +38,7 @@ comments: []
 <p>I had heard of Tmux but I have to confess I am a bit of a newb when it comes to terminal programs, at home I just use the OSx default.</p>
 <p>Having had a glimpse of some of the stuff Stephen showed us during a brief live demo, it is certainly something I want to maybe play about with as an improvement to my current setup, especially as I get back into using vim more (so much so that it is downloading right this second).</p>
 <p>Stephen ended his talk with a warning, which I share here without comment;</p>
-<p>[caption id="attachment_1674" align="aligncenter" width="577"]<a href="http://tosbourn.com/wp-content/uploads/2013/10/2013-10-01-19.14.08.jpg"><img class="size-large wp-image-1674" alt="Tmux warning" src="http://tosbourn.com/wp-content/uploads/2013/10/2013-10-01-19.14.08-577x1024.jpg" width="577" height="1024" /></a> Tmux warning[/caption]</p>
+<p>[caption id="attachment_1674" align="aligncenter" width="577"]<a href="http://tosbourn.com/wp-content/uploads/2013/10/2013-10-01-19.14.08.jpg"><img class="size-large wp-image-1674" alt="Tmux warning" src="http://tosbourn.com/wp-content/uploads/2013/10/2013-10-01-19.14.08-577x1024.jpg" width="577" height="1024" /></a> Tmux warning</p>
 <h2>Jekyll</h2>
 <p>Our final talk was by <a href="https://twitter.com/cobyism">Coby Chapple</a> on the static site generator <a href="http://jekyllrb.com/">Jekyll</a>, which was the thing being talked about that I knew most about (in that I had installed the gem before and generated an HTML file from a Markdown file).</p>
 <p>It would be rude not to steal some copy from the Jekyll homepage, seeing as I did for the other talks;</p>

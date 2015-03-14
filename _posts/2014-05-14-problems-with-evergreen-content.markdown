@@ -77,7 +77,7 @@ comments:
 ---
 <p>There are many different tactics that bloggers and content creators employ to attempt to get their content in front of as many relevant people as possible. One of these tactics is what is known as Evergreen Content, essentially this is content that is quality and useful to people for an extended period of time.</p>
 <p>There are plenty of great articles on <a href="http://blog.bufferapp.com/the-complete-list-of-evergreen-content-ideas-for-your-blog">evergreen content</a> so am not going to go into detail. One thing I noticed is that there are few articles that explain the potential pitfalls of evergreen content. Here is a screenshot from the results when I search "problems with evergreen content";</p>
-<p>[caption id="attachment_1889" align="aligncenter" width="538"]<img class="size-full wp-image-1889" src="http://tosbourn.com/wp-content/uploads/2014/05/Screenshot-2014-05-11-12.21.47.png" alt="Problems with Evergreen Content" width="538" height="511" /> Problems with Evergreen Content[/caption]</p>
+<p>[caption id="attachment_1889" align="aligncenter" width="538"]<img class="size-full wp-image-1889" src="http://tosbourn.com/wp-content/uploads/2014/05/Screenshot-2014-05-11-12.21.47.png" alt="Problems with Evergreen Content" width="538" height="511" /> Problems with Evergreen Content</p>
 <p>Doesn't look particularly problemy!</p>
 <p>This isn't going to be some rant against evergreen content, in general I agree that is has some excellent benefits to readers and therefore content creators. I do think that there are potential issues that need to be considered before someone decides to create an article they want to be considered evergreen.</p>
 <h2> Problems with Evergreen Content</h2>

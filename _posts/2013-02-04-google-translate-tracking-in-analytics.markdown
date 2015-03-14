@@ -105,4 +105,4 @@ comments:
 <p>To to reiterate my tl;dr; above, if you log into your Analytics and go to <b>Content</b>, then <b>Events</b>, then <b>Overview</b> you will see all of your Events, Google Translate will be one of those events.</p>
 <p>To get a good breakdown by language used you should open up the Google Translate report and select as your secondary dimension <b>Event Label</b>, you will then see something like this;</p>
 <p>&nbsp;</p>
-<p>[caption id="attachment_1293" align="aligncenter" width="797"]<img class="size-full wp-image-1293" src="http://tosbourn.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-04-at-13.44.16.png" alt="Google Analytics Report of Translated Items" width="797" height="368" /> Google Analytics Report of Translated Items[/caption]</p>
+<p>[caption id="attachment_1293" align="aligncenter" width="797"]<img class="size-full wp-image-1293" src="http://tosbourn.com/wp-content/uploads/2013/02/Screen-Shot-2013-02-04-at-13.44.16.png" alt="Google Analytics Report of Translated Items" width="797" height="368" /> Google Analytics Report of Translated Items</p>
