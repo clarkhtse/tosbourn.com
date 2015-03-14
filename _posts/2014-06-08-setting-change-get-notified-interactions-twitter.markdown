@@ -28,6 +28,6 @@ comments: []
 <li>Click on Web Notifications</li>
 </ol>
 <p>The page will look something like this;</p>
-<p>[caption id="attachment_2050" align="aligncenter" width="573"]<img class="size-full wp-image-2050" src="http://tosbourn.com/wp-content/uploads/2014/06/Screenshot-2014-06-08-21.27.57.png" alt="Twitter Settings Page" width="573" height="432" /> Twitter Settings Page</p>
+<p><img class="size-full wp-image-2050" src="http://tosbourn.com/wp-content/uploads/2014/06/Screenshot-2014-06-08-21.27.57.png" alt="Twitter Settings Page" width="573" height="432" /> Twitter Settings Page</p>
 <p>I think the default is now "Tailored for you" which I am guessing means Twitter are applying some algorithm to decide if you want to see the notification or not.</p>
 <p>By changing this to "By Anyone" Twitter should no longer apply this filter.</p>

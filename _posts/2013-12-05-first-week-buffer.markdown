@@ -56,7 +56,7 @@ comments:
 ---
 <p>Well my first week at Buffer is almost up and I wanted to get some thoughts down on paper, well actually I wanted to be testing Redis but MongoDB is taking a while to download during a Vagrant rebuild and I figured this would keep me occupied!</p>
 <h2>Working in Buffer</h2>
-<p>[caption id="attachment_1747" align="alignright" width="150"]<a href="http://tosbourn.com/wp-content/uploads/2013/12/2013-12-04-09.10.05.jpg"><img class="size-thumbnail wp-image-1747" alt="The Buffer Values" src="http://tosbourn.com/wp-content/uploads/2013/12/2013-12-04-09.10.05-150x150.jpg" width="150" height="150" /></a> The Buffer Values</p>
+<p><a href="http://tosbourn.com/wp-content/uploads/2013/12/2013-12-04-09.10.05.jpg"><img class="size-thumbnail wp-image-1747" alt="The Buffer Values" src="http://tosbourn.com/wp-content/uploads/2013/12/2013-12-04-09.10.05-150x150.jpg" width="150" height="150" /></a> The Buffer Values</p>
 <p>Working in Buffer has been really great, it has exceeded my expectations (which were already set really high!) here are my main takeaways;</p>
 <ul>
 <li><strong>I really quickly learned the value of transparency</strong> - I felt almost immediately up to speed on what everyone was doing in the business, and not in broad terms either, like actually what they were doing. It has already paid dividends with knowing who to chat to about what. Joel has actually very recently written a blog post that talks about <a href="http://joel.is/post/69066438261/how-we-handle-team-emails-at-our-startup-defaulting-to">email transparency</a>, it was inspired by a question I asked him recently.</li>

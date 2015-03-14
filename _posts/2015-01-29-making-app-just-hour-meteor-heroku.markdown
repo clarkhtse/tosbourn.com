@@ -41,7 +41,7 @@ comments:
 ---
 <p>Yesterday I thought up a fun idea for an app that would help me learn a bit about the <a href="http://www.html5rocks.com/en/tutorials/getusermedia/intro/">media capture APIs</a> available in HTML5. I also wanted to finish an end to end <a href="https://www.meteor.com">Meteor</a> application as I have only really followed tutorials before or worked on something along with other developers.</p>
 <p>I was able to create and launch the app in just over an hour. So you can say hello to <a href="http://working-wall.herokuapp.com">Working Wall</a>.</p>
-<p>[caption id="attachment_2513" align="aligncenter" width="300"]<a href="http://tosbourn.com/wp-content/uploads/2015/01/Screenshot-2015-01-29-22.11.31.png"><img class="size-medium wp-image-2513" src="http://tosbourn.com/wp-content/uploads/2015/01/Screenshot-2015-01-29-22.11.31-300x130.png" alt="Screenshot of Working Wall" width="300" height="130" /></a> Screenshot of Working Wall</p>
+<p><a href="http://tosbourn.com/wp-content/uploads/2015/01/Screenshot-2015-01-29-22.11.31.png"><img class="size-medium wp-image-2513" src="http://tosbourn.com/wp-content/uploads/2015/01/Screenshot-2015-01-29-22.11.31-300x130.png" alt="Screenshot of Working Wall" width="300" height="130" /></a> Screenshot of Working Wall</p>
 <p>I take absolutely no credit for being able to get something up and running this fast, it was all thanks to Meteor and Heroku. I wanted to walk you through my process to show how easy it is.</p>
 <p>I am going to assume you have both Meteor installed and a Heroku account, both are free and easy to set up. I don't mention them here purely to keep this post as neat as possible.</p>
 <h2>Meteor</h2>

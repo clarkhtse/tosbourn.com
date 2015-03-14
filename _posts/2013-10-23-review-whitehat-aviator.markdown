@@ -88,14 +88,14 @@ comments:
 <p>The installation was seemless, in standard Max OSx fashion you download a .dmg file which then makes you drag the application into your applications folder, once down it was accessible and the application launched without any additional setup or questions.</p>
 <h2>First Visual Impression</h2>
 <p>My immediate impression was it looked like I had started up a private session within Chrome;</p>
-<p>[caption id="attachment_1707" align="aligncenter" width="653"]<a href="http://tosbourn.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-20.41.33.png"><img class="size-full wp-image-1707" src="http://tosbourn.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-20.41.33.png" alt="Avaitor Browser Screenshot" width="653" height="637" /></a> Avaitor Browser Screenshot</p>
+<p><a href="http://tosbourn.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-20.41.33.png"><img class="size-full wp-image-1707" src="http://tosbourn.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-20.41.33.png" alt="Avaitor Browser Screenshot" width="653" height="637" /></a> Avaitor Browser Screenshot</p>
 <p>It looks a little clunky with that extra row that appears under the URL bar (which at first glance I have no idea what it does or what benefit it brings me).</p>
 <p>The big green Protected label that appears on sites initially jarred me a bit because it looked like it was just adding a superficial logo of trust, but on sites or pages that jumped to untrusted I suddenly became very curious about what was being tracked or stored about me.</p>
 <p>The default search engine is Duck Duck Go, which I am more than happy with.</p>
 <h2>Browsing Around</h2>
 <p>I went to a handful of my normal websites; tosbourn.com, twitter.com, imgur.com - imgur and tosbourn loaded 100% but when I tried to go to twitter my keychain and avaitor got themselves stuck in an infinite loop with it asking me to use confidential information in my keychain. I had to quit out of the application at this point.</p>
 <p>When I tried to quit out I was asked if I really wanted to quit, which is fine because I understand I could lose tabs or my place on a form or whatever, but I am a grown man so I then ticked the box to say don't ask me again, to which I got another prompt asking me if I was sure I meant to tick the box. I WAS SURE.</p>
-<p>[caption id="attachment_1708" align="aligncenter" width="477"]<a href="http://tosbourn.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-20.48.01.png"><img class="size-full wp-image-1708" src="http://tosbourn.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-20.48.01.png" alt="Annoying Popup" width="477" height="381" /></a> Annoying Popup</p>
+<p><a href="http://tosbourn.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-20.48.01.png"><img class="size-full wp-image-1708" src="http://tosbourn.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-20.48.01.png" alt="Annoying Popup" width="477" height="381" /></a> Annoying Popup</p>
 <p>I restarted and went on with my playing.</p>
 <p>Apart from these issues I found the browsing experience to be quick, and nothing obvious got in my way or made me feel like I was using a sub-par browser.</p>
 <h2>Tests</h2>
