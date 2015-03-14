@@ -66,3 +66,10 @@ In my use case the captions didn’t actually contain anything useful, if they d
 
 The final regex I used worked but was a bit greedy – If there existed a second or third ‘]’ on the same line, everything would have been deleted from it.
 
+## Update
+
+[PunKeel](http://ungeek.fr) reminded me on twitter that if I used `(.*?)` it would do a minimal match instead of a more greedy one. Thanks!
+
+<blockquote class="twitter-tweet" lang="en"><p>You&#39;re crazy <a href="https://twitter.com/tosbourn">@tosbourn</a> ! (“s/\[caption(.*)\]//g”, SedFun) Use (.*?) instead of (.*) (minimal match) D:</p>&mdash; ❄ PunKeel (@PunKeel) <a href="https://twitter.com/PunKeel/status/576854115059425280">March 14, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
