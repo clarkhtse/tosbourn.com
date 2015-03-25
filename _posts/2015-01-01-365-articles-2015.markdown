@@ -45,9 +45,9 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 58/365
+Article Progress: 60/365
 
-<progress value="58" max="365"></progress>
+<progress value="60" max="365"></progress>
 
  1. You are reading the very first article at the moment
  1. <a href="https://thefootytipster.com/tfts-2014-year-in-review/">A recap of 2014 on The Footy Tipster</a>
@@ -107,3 +107,5 @@ Article Progress: 58/365
  1. [OSx fun with sed](/sed-fun-on-osx/)
  1. [How the technical direction of a project can be influenced](/technical-direction/)
  1. [Great Football Twitter accounts to follow](https://thefootytipster.com/great-football-betting-twitter-accounts-to-follow/)
+ 2. [What I would look for in a Junior developer](/junior-dev/)
+ 3. [My thoughts on Refactoring large applications without tests](/refactoring-large-codebase-without-tests/)
