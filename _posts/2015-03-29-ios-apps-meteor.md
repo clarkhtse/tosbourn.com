@@ -14,6 +14,8 @@ tags:
 
 [Meteor](https://www.meteor.com) is a great framework for making applications that need a persistent back end. Using Meteor I have been able to get projects in front of clients way sooner than I normally would and I have been able to get prototypes of my own projects out for feedback without spending too much time architecting the back end.
 
+In fact I even made [an app in an hour and pushed it to production](/making-app-just-hour-meteor-heroku/).
+
 So Lets Make An app!
 
 First things first we need to install Meteor – If you are using OSx or any flavour of Linux you should be fine to use the following command
