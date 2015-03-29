@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Creating an iOS application in about 5 minutes using web technologies.
+title: Creating an iOS application in 5 minutes using Meteor.
 author:
   display_name: Toby
   email: toby.osbourn@googlemail.com
@@ -67,4 +67,4 @@ meteor add-platform iOS
 meteor run iOS
 ```
 
-BOOM!
+Now you can use your application natively and you will see that your session running in the browser will effect that iPhone app and vice versa.
