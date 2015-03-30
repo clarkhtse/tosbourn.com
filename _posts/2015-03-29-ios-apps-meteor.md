@@ -27,13 +27,9 @@ curl https://install.meteor.com/ | sh
 
 Now we want to create a new app;
 
-```
-meteor create cool_app
-
-cd cool_app
-
-meteor
-```
+    meteor create cool_app
+    cd cool_app
+    meteor
 
 With these three commands we have created a new application, moved into it and started the meteor server.
 
@@ -65,12 +61,8 @@ This is nice but the subject of my post mentions iOS applications.
 
 Assuming you are using OSx you are about 2 minutes away from having your new application running on the iPhone simulator that comes with xCode.
 
-```
-meteor install-sdk iOS
-
-meteor add-platform iOS
-
-meteor run iOS
-```
+    meteor install-sdk iOS
+    meteor add-platform iOS
+    meteor run iOS
 
 Now you can use your application natively and you will see that your session running in the browser will effect that iPhone app and vice versa.
