@@ -29,7 +29,9 @@ Now we want to create a new app;
 
 ```
 meteor create cool_app
+
 cd cool_app
+
 meteor
 ```
 
@@ -65,7 +67,9 @@ Assuming you are using OSx you are about 2 minutes away from having your new app
 
 ```
 meteor install-sdk iOS
+
 meteor add-platform iOS
+
 meteor run iOS
 ```
 
