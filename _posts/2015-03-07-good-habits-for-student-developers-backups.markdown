@@ -20,73 +20,11 @@ tags:
 - Backups
 - '365'
 - Students
-comments:
-- id: 703
-  author: melissakeizer
-  author_email: melissakeizer1@gmail.com
-  author_url: https://melissakeizer.exposure.co/
-  date: '2015-03-07 12:03:00 +0000'
-  date_gmt: '2015-03-07 11:03:00 +0000'
-  content: 'Great post Toby, I always find it interesting to read how others back
-    up their files. I use GitHub for my web projects and time machine for local backups
-    of everything, but all of my other important files are on two external HDs in
-    my house. I know this is just a disaster waiting to happen! Been considering BackBlaze
-    for a while, just trying to justify the expense to myself. You''d recommend it
-    then? I have about 1TB worth of photos and other files to backup! '
-- id: 704
-  author: Toby Osbourn
-  author_email: toby.osbourn@googlemail.com
-  author_url: http://www.tosbourn.com/
-  date: '2015-03-08 12:07:00 +0000'
-  date_gmt: '2015-03-08 11:07:00 +0000'
-  content: I would recommend it yeah – It really is a set and forget thing and saved
-    my ass when my old MBP decided it didn't want to live anymore.
-- id: 705
-  author: Michael Bole
-  author_email: penguin_soldier5@hotmail.com
-  author_url: ''
-  date: '2015-03-09 12:39:00 +0000'
-  date_gmt: '2015-03-09 11:39:00 +0000'
-  content: Great advice. The amount of students that lost their work during university
-    was crazy. They had to learn the hard way.
-- id: 706
-  author: Scott Edgar
-  author_email: scott@scottedgar.co.uk
-  author_url: ''
-  date: '2015-03-09 12:42:00 +0000'
-  date_gmt: '2015-03-09 11:42:00 +0000'
-  content: |-
-    Great post. When I was studying, none of this was even on the agenda but now I use a combination of things. For web projects I've only just started using Github. I know, shame on me, but I'm old school. We only used Notepad and FTP back when I started! I'm also a big fan of WPBackup, if Wordpress is your CMS of choice.
-
-    Locally, I've actually moved most of my files to the cloud, using Google+ for images, Google Drive for bits and pieces and a combination of Dropbox and Box.com for bigger artwork files, design PDFs etc. It keeps everything up to date plus it's dead handy for accessing anything on the go.
-- id: 707
-  author: Toby Osbourn
-  author_email: toby.osbourn@googlemail.com
-  author_url: http://www.tosbourn.com/
-  date: '2015-03-09 18:06:00 +0000'
-  date_gmt: '2015-03-09 17:06:00 +0000'
-  content: Unfortunately I am sure many didn't actually learn and will repeat the
-    same mistakes again!
-- id: 708
-  author: Toby Osbourn
-  author_email: toby.osbourn@googlemail.com
-  author_url: http://www.tosbourn.com/
-  date: '2015-03-09 18:07:00 +0000'
-  date_gmt: '2015-03-09 17:07:00 +0000'
-  content: How are you finding box? I had a very quick play when it was in early access
-    and thought it was grand but not significantly better than dropbox.
-- id: 709
-  author: Scott Edgar
-  author_email: scott@scottedgar.co.uk
-  author_url: ''
-  date: '2015-03-09 18:11:00 +0000'
-  date_gmt: '2015-03-09 17:11:00 +0000'
-  content: Seems to sync a lot slower than Dropbox and is a bit of a resource hog.
-    I mainly use it because I signed up during an offer period and got a free 50GB
-    account. Dropbox is definitely a much better experience.
 ---
-<p>Sometimes the hardest or most frustrating part of development isn't the code, the algorithms, or even other people! Sometimes it can be some of the other tasks a professional developer needs to be doing in order to be doing their job correctly.</p>
-<p>I want to talk with you about three tasks that are very important that aren't development. Backups, Documenting, and Timekeeping.</p>
+Sometimes the hardest or most frustrating part of development isn't the code, the algorithms, or even other people! Sometimes it can be some of the other tasks a professional developer needs to be doing in order to be doing their job correctly.
+
+I want to talk with you about three tasks that are very important that aren't development. Backups, Documenting, and [Time Keeping](/good-habits-for-student-developers-time-keeping/).
+
 <p>I don't want to make this a massive article so I am going to split this into a series of three.</p>
 <p>I have two disclaimers, the first is that I graduated university years ago and they may well teach these three topics incredibly well now to all their Computer Scientists. The second is that even though I have been working as a professional developer for several years now I am continually learning and finding out better ways to do things.</p>
 <p>With those in mind onto our first topic, backups.</p>
