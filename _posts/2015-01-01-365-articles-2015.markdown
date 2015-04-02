@@ -33,9 +33,9 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 62/365
+Article Progress: 65/365
 
-<progress value="62" max="365"></progress>
+<progress value="65" max="365"></progress>
 
  1. You are reading the very first article at the moment
  1. <a href="https://thefootytipster.com/tfts-2014-year-in-review/">A recap of 2014 on The Footy Tipster</a>
@@ -99,3 +99,7 @@ Article Progress: 62/365
  3. [My thoughts on Refactoring large applications without tests](/refactoring-large-codebase-without-tests/)
  4. [A quick way to create an iOS application with Meteor](/ios-apps-meteor/)
  4. [My 3 month update on this project](/365-posts-3-month-update/)
+ 63. [POODIR on testing](http://tosbourn.com/poodir-on-testing/)
+ 64. [My post on Time Keeping](http://tosbourn.com/good-habits-for-student-developers-time-keeping/)
+ 65. [Picking the right online bookmakers](https://thefootytipster.com/picking-the-right-online-bookmakers/)
+
