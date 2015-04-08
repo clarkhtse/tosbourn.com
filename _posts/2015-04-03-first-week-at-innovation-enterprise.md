@@ -53,4 +53,4 @@ Having an office dog roaming about is great as well.
 
 ## The Conclusion
 
-Obviously early days yet, but loving the people the problems, the tech and the setup are clearly big wins, I think I will be happy hear – now just need to do some good work to make sure they are happy with me there!
+Obviously early days yet, but loving the people the problems, the tech and the setup are clearly big wins, I think I will be happy here – now just need to do some good work to make sure they are happy with me there!
