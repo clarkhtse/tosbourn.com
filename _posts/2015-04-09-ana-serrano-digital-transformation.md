@@ -9,7 +9,7 @@ tags:
 - 
 ---
 
-This morning I was lucky to hear Ana Serrano give a talk during the [Chief Digital Officer Forum](http://theinnovationenterprise.com/summits/chief-digital-officer-summit-london-2015/) which was held in London.
+This morning I was lucky to hear [Ana Serrano](https://twitter.com/acserrano) give a talk during the [Chief Digital Officer Forum](http://theinnovationenterprise.com/summits/chief-digital-officer-summit-london-2015/) which was held in London.
 
 As a disclaimer, the reason I was at the event was  I work for the company which was hosting it and wanted to get a feel for the type of events we put on. Whilst it is in my best interests to paint my company’s events in a positive light I hope you will believe me that I would not lie on my personal blog (or anywhere). Now, onto my writeup!
 
