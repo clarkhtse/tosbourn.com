@@ -33,9 +33,9 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 65/365
+Article Progress: 76/365
 
-<progress value="65" max="365"></progress>
+<progress value="76" max="365"></progress>
 
  1. You are reading the very first article at the moment
  1. <a href="https://thefootytipster.com/tfts-2014-year-in-review/">A recap of 2014 on The Footy Tipster</a>
@@ -102,4 +102,16 @@ Article Progress: 65/365
  63. [POODIR on testing](http://tosbourn.com/poodir-on-testing/)
  64. [My post on Time Keeping](http://tosbourn.com/good-habits-for-student-developers-time-keeping/)
  65. [Picking the right online bookmakers](https://thefootytipster.com/picking-the-right-online-bookmakers/)
+ 1. [My First Week at Innovation Enterprise](/first-week-at-innovation-enterprise/)
+ 1. [Getting Money out of Uganda](/getting-money-out-of-uganda/)
+ 1. [Ruby's Enumerable Partition](/ruby-partition-enumerable/)
+ 66. [Patrick Jubb – Re-building the Marketing Department to be Fit for the Future](/patrick-jubb-rebuilding-marketing-department/)
+ 1. [Robert Wint – Using Content to Improve the Customer Journey](/robert-wint-using-content-improve-journey/)
+ 1. [Ana Serrano – Digital Transformation & Continuous Innovation: the CDO’s Two Paths to Success](/ana-serrano-digital-transformation/)
+ 1. [Martin Trickey – Do we Tell Stories Differently Now?](/martin-trickey-stories/)
+ 1. [Kerensa Samanidis - Breaking in to the online video market](/kerensa-samanidis-breaking-into-vod/)
+ 1. [Amanda Neylon – The Importance of Focusing on Social Strategy](/amanda-neylon-focusing-on-social/)
+ 72. [Mark Elkins – From Passion to Purchase: Coca-Cola’s Digital Revolution](/mark-elkins-passion-to-purchase/)
+ 76. [My writeup of day one of the Chief Digital Officer Summmit](/chief-digital-officer-summit/)
+
 
