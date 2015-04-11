@@ -33,9 +33,9 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 76/365
+Article Progress: 77/365
 
-<progress value="76" max="365"></progress>
+<progress value="77" max="365"></progress>
 
  1. You are reading the very first article at the moment
  1. <a href="https://thefootytipster.com/tfts-2014-year-in-review/">A recap of 2014 on The Footy Tipster</a>
@@ -113,5 +113,6 @@ Article Progress: 76/365
  1. [Amanda Neylon – The Importance of Focusing on Social Strategy](/amanda-neylon-focusing-on-social/)
  72. [Mark Elkins – From Passion to Purchase: Coca-Cola’s Digital Revolution](/mark-elkins-passion-to-purchase/)
  76. [My writeup of day one of the Chief Digital Officer Summmit](/chief-digital-officer-summit/)
-
+ 77. [Another writeup on the CDO
+ Summit](http://channels.theinnovationenterprise.com/articles/2912-chief-digital-officer-summit-london)
 
