@@ -37,9 +37,8 @@ src="//speakerdeck.com/assets/embed.js"></script>
 
 I was able to find an older video of the same talk she gave back in 2013
 
-<iframe src="https://player.vimeo.com/video/80906692" width="500" height="281"
-frameborder="0" webkitallowfullscreen mozallowfullscreen
-allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QAUHYzC9kFM"
+frameborder="0" allowfullscreen></iframe>
 
 ## Wrapping Up
 
