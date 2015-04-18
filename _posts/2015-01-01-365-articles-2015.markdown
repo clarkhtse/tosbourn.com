@@ -33,9 +33,9 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 77/365
+Article Progress: 81/365
 
-<progress value="77" max="365"></progress>
+<progress value="81" max="365"></progress>
 
  1. You are reading the very first article at the moment
  1. <a href="https://thefootytipster.com/tfts-2014-year-in-review/">A recap of 2014 on The Footy Tipster</a>
@@ -115,4 +115,10 @@ Article Progress: 77/365
  76. [My writeup of day one of the Chief Digital Officer Summmit](/chief-digital-officer-summit/)
  77. [Another writeup on the CDO
  Summit](http://channels.theinnovationenterprise.com/articles/2912-chief-digital-officer-summit-london)
+ 78. [Katrina Owen presenting Here be Dragons](/katrina-owen-here-be-dragons/)
+ 79. [Updating a slug on a live Rails system](/rails-update-slug-live/)
+ 80. [A pragmatic approach to adding Schema to your
+ website](http://developerseoguide.com/adding-schema/)
+ 81. [My about page on a new SEO based
+ project](http://developerseoguide.com/about/)
 
