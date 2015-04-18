@@ -1,19 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
+layout: bookreview
 title: 'Review: Work - How to find joy and meaning in each hour of the day'
-author:
-  display_name: Toby
-  login: admin
-  email: toby.osbourn@googlemail.com
-  url: ''
-author_login: admin
-author_email: toby.osbourn@googlemail.com
-wordpress_id: 1826
-wordpress_url: http://tosbourn.com/?p=1826
-date: '2014-01-26 18:36:18 +0000'
-date_gmt: '2014-01-26 17:36:18 +0000'
 categories:
 - Reviews
 tags:
@@ -22,10 +9,14 @@ tags:
 - Thich Nhat Hanh
 - Skillfulness
 - Mindfulness
-comments: []
+book_name: Work – How to find joy and meaning in each hour of the day
+book_image: http://tosbourn.com/wp-content/uploads/2014/01/work.jpg
+book_authors:
+- Thich Nhat Hanh
+book_score: 5
 ---
-<p><img class="alignright size-full wp-image-1829" src="http://tosbourn.com/wp-content/uploads/2014/01/work.jpg" alt="work" width="188" height="280" /><br />
-I have recently finished reading a book called <a href="http://www.amazon.co.uk/gp/product/B00APDAWHI/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=B00APDAWHI&amp;linkCode=as2&amp;tag=tosbourn-21">Work</a> written by <a href="http://plumvillage.org/about/thich-nhat-hanh/">Thich Nhat Hanh</a> and I wanted to share some thoughts on it.</p>
+I have recently finished reading a book called <a href="http://www.amazon.co.uk/gp/product/B00APDAWHI/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=B00APDAWHI&amp;linkCode=as2&amp;tag=tosbourn-21">Work</a> written by <a href="http://plumvillage.org/about/thich-nhat-hanh/">Thich Nhat Hanh</a> and I wanted to share some thoughts on it.
+
 <p>Normally my reviews are for technical books, which I feel I am quite well placed to talk about, this review is going to be very different in that I am not in anyway skillful in the subjects of mindfulness and this is the first book I have read on the subject, to compensate this review is going to list some of my key takeaways. If you are interested in the takeaways I have personally gleaned from the book then it may be for you!</p>
 <p>The title and subtitle give you a bit of a clue to the contents of the book, it helps to you try and find joy in every part of the day, especially in work. It tackles the thinking that you have a work life and a life life and they need to be in balance by suggesting that it is all your life and you can enjoy everything about it.</p>
 <p>The main concept throughout the book, and from what I gather a core concept of Buddhism is to be mindful, what this means is no matter what the task focus 100% of your thought on that task, obvious applications of this would be speaking to someone or performing a work related task, but the book dedicates and entire section to talking about the joy you can get from brushing your teeth.</p>

@@ -1,28 +1,22 @@
 ---
-layout: post
-status: publish
-published: true
+layout: bookreview
 title: 'Review: Backbone.js Patterns and Best Practice'
-author:
-  display_name: Toby
-  login: admin
-  email: toby.osbourn@googlemail.com
-  url: ''
-author_login: admin
-author_email: toby.osbourn@googlemail.com
-wordpress_id: 1856
-wordpress_url: http://tosbourn.com/?p=1856
-date: '2014-03-08 22:41:05 +0000'
-date_gmt: '2014-03-08 21:41:05 +0000'
 categories:
 - Reviews
 tags:
 - JavaScript
 - Review
 - Backbone.js
-comments: []
+book_name: Backbone.js Patterns and Best Pratice
+book_image: /img/backbone.jpg
+book_authors:
+- Swarnendu De
+book_score: 4
 ---
-<p>Recently I have been reading <a href="http://www.packtpub.com/backbone-js-patterns-and-best-practices/book">Backbone.js: Patterns and Best Practice</a>, it is put out by Packt publishing and has been written by <a href="https://twitter.com/swarnendude">Swarnendu De</a>.</p>
+<p>Recently I have been reading <a
+href="http://www.packtpub.com/backbone-js-patterns-and-best-practices/book">Backbone.js:
+Patterns and Best Practice</a>, it is put out by Packt publishing and has been
+written by <a href="https://twitter.com/swarnendude">Swarnendu De</a>.</p>
 <p>I will give you five guesses as to the content of the book!</p>
 <p>In my 9-5 I have been using Ember.js for most of my JavaScript needs but I have a lot of love for Backbone.js and I have to say I loved this book.</p>
 <p>As a bit of a background I have been reading the Kindle version of this book and as a disclaimer I was contacted by Packt to see if I would be interested in reviewing it, this doesn't effect my review though (writing a review I don't personally agree with makes no sense for anyone!)</p>

@@ -1,19 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
+layout: bookreview
 title: 'Review: The CSS3 Anthology'
-author:
-  display_name: Toby
-  login: admin
-  email: toby.osbourn@googlemail.com
-  url: ''
-author_login: admin
-author_email: toby.osbourn@googlemail.com
-wordpress_id: 952
-wordpress_url: http://tosbourn.com/?p=952
-date: '2012-04-13 14:28:34 +0100'
-date_gmt: '2012-04-13 13:28:34 +0100'
 categories:
 - Reviews
 tags:
@@ -22,9 +9,13 @@ tags:
 - Rachel Andrew
 - Sitepoint
 - Book
-comments: []
+book_name: The CSS3 Anthology
+book_image: http://distilleryimage9.instagram.com/1cd6a67684ce11e1ab011231381052c0_7.jpg
+book_score: 4
+book_authors:
+- Rachel Andrew
 ---
-<p><img class="alignright" title="The CSS3 Anthology" src="http://distilleryimage9.instagram.com/1cd6a67684ce11e1ab011231381052c0_7.jpg" alt="" width="257" height="257" />Recently I bought a copy of <a href="http://www.sitepoint.com/books/cssant4/">The CSS3 Anthology</a> by <a href="https://twitter.com/#!/rachelandrew">Rachel Andrew</a> - as well as the physical copy I got a digital download of the book. I have enjoyed reading it and figured I would post up a quick review in case you were thinking of purchasing a copy and wanted to read some opinions on it.</p>
+Recently I bought a copy of <a href="http://www.sitepoint.com/books/cssant4/">The CSS3 Anthology</a> by <a href="https://twitter.com/#!/rachelandrew">Rachel Andrew</a> - as well as the physical copy I got a digital download of the book. I have enjoyed reading it and figured I would post up a quick review in case you were thinking of purchasing a copy and wanted to read some opinions on it.</p>
 <p><em>This is my first book review since school from what I can remember, so please post any criticism as this is something I would like to get better at.</em></p>
 <h2>Why I bought it.</h2>
 <p>I have spent many years working with CSS and have been bitten before with buying books that are either too basic or give wrong information - and I don't mean wrong as in out of date, I mean wrong as in the samples were never best practice and shouldn't be followed.</p>

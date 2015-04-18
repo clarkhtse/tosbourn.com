@@ -1,19 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
+layout: bookreview
 title: 'Review: jQuery HotShot'
-author:
-  display_name: Toby
-  login: admin
-  email: toby.osbourn@googlemail.com
-  url: ''
-author_login: admin
-author_email: toby.osbourn@googlemail.com
-wordpress_id: 1493
-wordpress_url: http://tosbourn.com/?p=1493
-date: '2013-05-11 17:03:46 +0100'
-date_gmt: '2013-05-11 16:03:46 +0100'
 categories:
 - Reviews
 tags:
@@ -21,9 +8,14 @@ tags:
 - jQuery
 - jQuery Hotshot
 - Dan Wellman
-comments: []
+book_name: jQuery HotShot
+book_image: http://tosbourn.com/wp-content/uploads/2013/05/jQuery-Hotshots.jpg
+book_authors:
+- Dan Wellman
+book_score: 4.5
 ---
-<p><a href="http://tosbourn.com/wp-content/uploads/2013/05/jQuery-Hotshots.jpg"><img class="alignright size-medium wp-image-1496" src="http://tosbourn.com/wp-content/uploads/2013/05/jQuery-Hotshots-243x300.jpg" alt="jQuery Hotshots" width="243" height="300" /></a>I have followed and been a fan of Dan Wellman's writing for some time and when I noticed he was asking on Twitter for people to review a new book he was writing I jumped at the chance.</p>
+I have followed and been a fan of Dan Wellman's writing for some time and when I noticed he was asking on Twitter for people to review a new book he was writing I jumped at the chance.
+
 <p>I have been using jQuery for several years now on a mixture of commercial and personal websites and on various web applications and whilst I don't always think it is the right solution for a problem, when a library is the right solution jQuery is one of the best. In my current role we heavily use jQuery so I believe I am qualified to accurately review this book.</p>
 <p>For this review I am reading the Kindle version of jQuery HotShot which you can buy now from <a href="http://www.packtpub.com/jquery-hotshot/book" target="_blank">Packt</a> and from <a href="http://www.amazon.co.uk/gp/product/1849519102/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=1849519102&amp;linkCode=as2&amp;tag=tosbourn-21" target="_blank">Amazon</a>, the book is also available as a paperback for all you cave-people.</p>
 <h2>jQuery HotShot</h2>
