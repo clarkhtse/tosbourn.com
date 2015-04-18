@@ -48,6 +48,32 @@
   }
 }
 
+.authors {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  li {
+    display: inline;
+    list-style: none;
+    margin:0;
+    padding: 0;
+
+    &:after {
+      content: ", ";
+    }
+
+    &:last-child:after {
+      content: "";
+    }
+  }
+
+}
+
+.review-image {
+  display: block;
+  margin: 10px;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;

@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<div class="post" itemscope itemtype="http://schema.org/TechArticle">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+    <p class="post-meta" itemprop="dateCreated">{{ page.date | date: "%b %-d, %Y" }}</p>
+  </header>
+
+  <article class="post-content" itemprop="articleBody">
+    <aside class="ads">
+      <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=tosbourn" id="_carbonads_js"></script>
+    </aside>
+    <section itemscope itemtype="http://schema.org/Book http://schema.org/Review">
+      <h1 itemprop="name itemReviewed">{{page.book_name}}</h1>
+      by <ul class="authors">
+        {% for author in page.book_authors %}
+        <li itemprop="author">{{author}}</li>
+        {% endfor %}
+      </ul>
+      <img class="review-image" itemprop="image" src="{{page.book_image}}" />
+      <div itemprop="reviewRating"
+            itemscope itemtype="http://schema.org/Rating">
+      I scored this a <span itemprop="ratingValue">{{page.book_score}}</span> / 5
+      </div>
+
+      <div itemprop="reviewBody">
+      {{ content }}
+      </div>
+    </section>
+    <section class="socialshares">
+      Share this on:<br />
+      {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+      <a class="social facebook" target="_blank" href="http://www.facebook.com/sharer/sharer.php?u={{url}}&t={{page.title}}">Facebook</a>
+      <a class="social twitter" target="_blank" href="https://twitter.com/intent/tweet?text={{page.title}}&url={{url}}">Twitter</a> 
+      <a class="social google" target="_blank" href="https://plus.google.com/share?url={{url}}">G+</a> 
+      <a class="social linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&url={{url}}&title={{page.title}}&summary={{page.title}}&source={{url}}">LinkedIn</a>
+      <a class="social reddit" target="_blank" href="http://www.reddit.com/submit?url={{url}}">Reddit</a>
+      <a class="social hackernews" target="_blank" href="http://news.ycombinator.com/submitlink?u={{url}}&t={{page.title}}">HN</a>
+      <a class="social buffer" target="_blank" href="http://bufferapp.com/add?text={{page.title}}&url={{url}}">Buffer</a>
+    </section>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES * * */
+        var disqus_shortname = 'tosbourn';
+        
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </article>
+
+</div>
