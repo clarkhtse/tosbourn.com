@@ -16,5 +16,5 @@ You can replace {commit} with the SHA1 you want to retrieve, or things like
 
 I made this post into a YouTube video
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/gDZW-gT3YQk"
+<iframe width="640" height="480" src="https://www.youtube.com/embed/gDZW-gT3YQk"
 frameborder="0" allowfullscreen></iframe>
