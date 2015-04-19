@@ -23,7 +23,7 @@ tags:
 ---
 Sometimes the hardest or most frustrating part of development isn't the code, the algorithms, or even other people! Sometimes it can be some of the other tasks a professional developer needs to be doing in order to be doing their job correctly.
 
-I want to talk with you about three tasks that are very important that aren't development. Backups, Documenting, and [Time Keeping](/good-habits-for-student-developers-time-keeping/).
+I want to talk with you about three tasks that are very important that aren't development. Backups, [Documenting](/good-habits-for-student-developers-documenting/), and [Time Keeping](/good-habits-for-student-developers-time-keeping/).
 
 <p>I don't want to make this a massive article so I am going to split this into a series of three.</p>
 <p>I have two disclaimers, the first is that I graduated university years ago and they may well teach these three topics incredibly well now to all their Computer Scientists. The second is that even though I have been working as a professional developer for several years now I am continually learning and finding out better ways to do things.</p>

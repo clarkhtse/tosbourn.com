@@ -3,9 +3,6 @@ layout: post
 status: publish
 published: true
 title: Good habits for student developers – Time Keeping
-author:
-  display_name: Toby
-  email: toby.osbourn@googlemail.com
 categories:
 - Developer Help
 tags:
@@ -14,7 +11,7 @@ tags:
 
 This is my second in a series of three articles covering good habits for student developers.
 
-In this article I want to cover Time Keeping, the other two articles are on [Backups](/good-habits-for-student-developers-backups/) and Documenting.
+In this article I want to cover Time Keeping, the other two articles are on [Backups](/good-habits-for-student-developers-backups/) and [Documenting](/good-habits-for-student-developers-documenting/).
 
 Time keeping can one of the most annoying things you have to do, especially if you don’t see any point in it or you leave it to the last minute.
 
