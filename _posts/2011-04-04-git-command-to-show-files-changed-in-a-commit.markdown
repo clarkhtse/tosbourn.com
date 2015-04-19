@@ -14,7 +14,7 @@ Turns out (like most things in Git) this is very easy to do.
 You can replace {commit} with the SHA1 you want to retrieve, or things like
 `HEAD` or `HEAD^^`
 
-I made this post into a quick Youtube video;
+I made this post into a YouTube video
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/gDZW-gT3YQk"
 frameborder="0" allowfullscreen></iframe>
