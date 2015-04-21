@@ -16,9 +16,15 @@ layout: default
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
+      {% for tag in post.tags %}
+        {% if tag == "Ruby" %}
+          {% assign tagClass = "ruby" %}
+        {% endif %}
+      {% endfor %}
+      <li class="post-list-item {{ tagClass }}">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> – <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
+      {% assign tagClass = "" %}
     {% endfor %}
   </ul>
 </div>

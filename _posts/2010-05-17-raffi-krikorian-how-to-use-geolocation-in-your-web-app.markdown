@@ -1,19 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Raffi Krikorian - How to use Geolocation in your web app
-author:
-  display_name: Toby
-  login: admin
-  email: toby.osbourn@googlemail.com
-  url: ''
-author_login: admin
-author_email: toby.osbourn@googlemail.com
-wordpress_id: 236
-wordpress_url: http://www.tosbourn.com/?p=236
-date: '2010-05-17 14:09:51 +0100'
-date_gmt: '2010-05-17 13:09:51 +0100'
 categories:
 - Other
 tags:
@@ -21,7 +8,6 @@ tags:
 - Geolocation
 - Raffi Krikorian
 - FOWA
-comments: []
 ---
 <p>Last Friday I attended the <a href="http://futureofwebapps.com/dublin-2010/">Future of Web Apps</a> conference in Dublin.  It was an excellent experience (everything was better than last year bar the atmosphere) and I wanted to write up a few of the things I have learned from it.  Taking each talk in the order they were given I will write up a little blurb about them.</p>
 <p>The first talk was by <a href="http://twitter.com">Twitter</a>'s <a href="http://twitter.com/raffi">Raffi Kirkorian</a>, he is the lead developer of the Twitter geospatial APIs.  I felt he delivered his content well and I enjoyed the presentation a lot.</p>

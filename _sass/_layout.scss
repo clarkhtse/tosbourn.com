@@ -79,6 +79,18 @@
   font-size: 50%;
 }
 
+.post-list-item {
+
+  background-position: left;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  
+  &.ruby {
+    background-image: url('/img/ruby.png');
+  }
+}
+
+
 .site-nav {
     float: right;
     line-height: 56px;
