@@ -33,9 +33,28 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 81/365
+Article Progress: 86/365
 
-<progress value="81" max="365"></progress>
+<progress value="86" max="365"></progress>
+
+Day of the year: <span id="day-of-year"></span>
+
+To meet the goal I need to write approximately <span id="posts-per-day"></span>
+ articles per day.
+
+<script>
+var now = new Date(),
+    start = new Date(now.getFullYear(), 0, 0),
+    diff = now - start,
+    oneDay = 1000 * 60 * 60 * 24,
+    day = Math.floor(diff / oneDay),
+    posts = 86,
+    postsPerDay = (365 - posts) / (365 - day);
+
+document.getElementById("day-of-year").textContent = day;
+document.getElementById("posts-per-day").textContent = postsPerDay;
+
+</script>
 
  1. You are reading the very first article at the moment
  1. <a href="https://thefootytipster.com/tfts-2014-year-in-review/">A recap of 2014 on The Footy Tipster</a>
@@ -121,4 +140,12 @@ Article Progress: 81/365
  website](http://developerseoguide.com/adding-schema/)
  81. [My about page on a new SEO based
  project](http://developerseoguide.com/about/)
+ 82. [Good Habits for Student Developers –
+ Documented](/good-habits-for-student-developers-documenting/)
+ 83. [My First ever Screencast :-)](/my-first-youtube-video/)
+ 84. [An image laden post I made about football
+ memories](https://thefootytipster.com/football-memories/)
+ 85. [How to post to little logs from your
+ terminal](https://github.com/tosbourn/littlelogs-cli)
+ 86. [I love Programming](/programming-love/)
 
