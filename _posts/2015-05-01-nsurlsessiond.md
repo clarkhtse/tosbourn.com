@@ -27,6 +27,13 @@ I don’t use iCloud Drive for anything, nor do I use Photos, even so this proce
 
 I decided to go into my iCloud settings and turn off both iCloud Drive and Photo syncing. I kept Contacts, Safari and Keychain connected as I do use them.
 
+## How to turn off iCloud Drive
+
+* Open up System Preferences (You will see if you click on the Apple icon in your toolbar)
+* Click on iCloud
+* If you need to sign in, this means it probably wasn't set up anyway so don't worry
+* If you see a list of features of iCloud, you can tick off any you don't want
+
 ## End Result
 
 The result of me doing this has been huge – I didn’t track speed before and after the change (I can only assume if I change back there is going to be an unnatural amount of network load as it kicks things off again) but the difference it has made to my perceived browsing speed is huge.
