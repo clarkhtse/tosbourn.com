@@ -33,9 +33,9 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 86/365
+Article Progress: 88/365
 
-<progress value="86" max="365"></progress>
+<progress value="88" max="365"></progress>
 
 Day of the year: <span id="day-of-year"></span>
 
@@ -48,7 +48,7 @@ var now = new Date(),
     diff = now - start,
     oneDay = 1000 * 60 * 60 * 24,
     day = Math.floor(diff / oneDay),
-    posts = 86,
+    posts = 88,
     postsPerDay = (365 - posts) / (365 - day);
 
 document.getElementById("day-of-year").textContent = day;
@@ -148,4 +148,5 @@ document.getElementById("posts-per-day").textContent = postsPerDay;
  85. [How to post to little logs from your
  terminal](https://github.com/tosbourn/littlelogs-cli)
  86. [I love Programming](/programming-love/)
-
+ 87. [A way I sped up my internet on the mac](/nsurlsessionid/)
+ 88. [Getting good team information](https://thefootytipster.com/getting-good-team-information/)
