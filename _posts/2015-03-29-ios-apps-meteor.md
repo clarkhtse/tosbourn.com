@@ -16,7 +16,7 @@ tags:
 
 In fact I even made [an app in an hour and pushed it to production](/making-app-just-hour-meteor-heroku/).
 
-So Lets Make An app!
+So Lets Make An app! (Complete [code here](https://github.com/tosbourn/meteor-example))
 
 First things first we need to install Meteor – If you are using OSx or any flavour of Linux you should be fine to use the following command
 
