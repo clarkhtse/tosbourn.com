@@ -33,9 +33,9 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 92/365
+Article Progress: 94/365
 
-<progress value="92" max="365"></progress>
+<progress value="94" max="365"></progress>
 
 Day of the year: <span id="day-of-year"></span>
 
@@ -48,7 +48,7 @@ var now = new Date(),
     diff = now - start,
     oneDay = 1000 * 60 * 60 * 24,
     day = Math.floor(diff / oneDay),
-    posts = 92,
+    posts = 94,
     postsPerDay = (365 - posts) / (365 - day);
 
 document.getElementById("day-of-year").textContent = day;
@@ -155,3 +155,5 @@ document.getElementById("posts-per-day").textContent = postsPerDay;
  91. [Webcam / Photo Booth Library fun!](/webcam-osx-photo-booth/)
  92. [Knowing if you have a gambling
  problem](https://thefootytipster.com/knowing-if-you-have-a-gambling-problem/)
+ 93. [Facebook killing my page rant](https://thefootytipster.com/bye-bye-facebook/)
+ 94. [I wrote about ways you could help the site if you liked :-)](/help-the-site/)
