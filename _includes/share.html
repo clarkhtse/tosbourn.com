@@ -1,0 +1,11 @@
+<section class="socialshares">
+  Share this on:<br />
+  {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+  <a class="social facebook" target="_blank" href="http://www.facebook.com/sharer/sharer.php?u={{url}}&t={{page.title}}">Facebook</a>
+  <a class="social twitter" target="_blank" href="https://twitter.com/intent/tweet?text={{page.title}}&url={{url}}">Twitter</a> 
+  <a class="social google" target="_blank" href="https://plus.google.com/share?url={{url}}">G+</a> 
+  <a class="social linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&url={{url}}&title={{page.title}}&summary={{page.title}}&source={{url}}">LinkedIn</a>
+  <a class="social reddit" target="_blank" href="http://www.reddit.com/submit?url={{url}}">Reddit</a>
+  <a class="social hackernews" target="_blank" href="http://news.ycombinator.com/submitlink?u={{url}}&t={{page.title}}">HN</a>
+  <a class="social buffer" target="_blank" href="http://bufferapp.com/add?text={{page.title}}&url={{url}}">Buffer</a>
+</section>
