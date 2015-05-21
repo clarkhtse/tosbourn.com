@@ -19,4 +19,6 @@ Next up we need to set up something to catch this being set by rails_admin and h
 
     before_validation { attachment.clear if delete_attachment == '1' }
 
+The `attachment.clear` is how paperclip deals with items to be removed, but you can change this to whatever you want.
+
 Thats it! Unfortunately I couldn't find this documented anywhere so it took me longer than I would care to admit.
