@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Deleteing Attachments with rails_admin
+title: Deleting Attachments with rails_admin
 categories:
 - Ruby
 tags:
