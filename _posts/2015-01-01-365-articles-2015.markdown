@@ -33,9 +33,9 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 94/365
+Article Progress: 104/365
 
-<progress value="94" max="365"></progress>
+<progress value="104" max="365"></progress>
 
 Day of the year: <span id="day-of-year"></span>
 
@@ -48,7 +48,7 @@ var now = new Date(),
     diff = now - start,
     oneDay = 1000 * 60 * 60 * 24,
     day = Math.floor(diff / oneDay),
-    posts = 94,
+    posts = 104,
     postsPerDay = (365 - posts) / (365 - day);
 
 document.getElementById("day-of-year").textContent = day;
@@ -157,3 +157,17 @@ document.getElementById("posts-per-day").textContent = postsPerDay;
  problem](https://thefootytipster.com/knowing-if-you-have-a-gambling-problem/)
  93. [Facebook killing my page rant](https://thefootytipster.com/bye-bye-facebook/)
  94. [I wrote about ways you could help the site if you liked :-)](/help-the-site/)
+ 95. [Deleteing Attachments with rails_admin](/deleting-attachments-rails_admin/)
+ 96. [Some iTerm tricks](/iterm-tricks/)
+ 97. [Custom Routing of Github Emails](/set-default-github-email/)
+ 98. [I wonder aloud what a Proc is](/what-is-a-proc/)
+ 99. [A lightening talk on schema I gave](http://developerseoguide.com/lightening-talk-on-schema/)
+ 100. [What a Developer can take away from SEO Now
+ 2015](http://developerseoguide.com/developer-take-away-seo-now-2015/)
+ 101. [Adding Descriptions to Pages with
+ Jekyll](http://developerseoguide.com/adding-descriptions-to-pages-with-jekyll/)
+ 102. [My review of Scrutiny5](http://developerseoguide.com/scruntiy5-review/)
+ 103. [HTTP Status Codes for
+ SEO](http://developerseoguide.com/http-status-codes-for-seo/)
+ 104. [Getting HTTP Status Codes from the command
+ line](http://developerseoguide.com/getting-https-status-codes-from-the-command-line/)
