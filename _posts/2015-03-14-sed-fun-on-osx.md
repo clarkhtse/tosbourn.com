@@ -3,13 +3,10 @@ layout: post
 status: publish
 published: true
 title: Sed fun on OSx
-author:
-  display_name: Toby
-  email: toby.osbourn@googlemail.com
 categories:
 - Developer Help
 tags:
-- ‘365’
+- 365
 - Sed 
 - OSx
 ---
@@ -36,7 +33,7 @@ What this is saying is look for files in the _posts directory (where all Jekyll 
 
     sed -i “” “s/\[\/caption\]//g”
 
-The `-i` flag tells sed to edit the file in place, if I didn’t have this I would need to specify and output file.
+The `-i` flag tells sed to edit the file in place, if I didn’t have this I would need to specify an output file.
 
 In the OSx variant of sed you can’t use the `-i` flag without specifying a backup file you would like to use. I didn’t care about having a backup file because everything was version controlled anyway so I had to pass in a blank string.
 
