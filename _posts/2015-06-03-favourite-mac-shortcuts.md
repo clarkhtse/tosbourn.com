@@ -76,7 +76,7 @@ Again I tend not to use Mail unless for some insane reason I have to, I am much 
 
 ## Misc
 
-* CTRL+CMD –> Insert Emoji anywhere
+* CTRL + CMD + Space -> Insert Emoji anywhere
 * CMD + SHIFT + ? -> Opens up help for any program
 
 Go to the Keyboard preferences pane, click on Shortcuts and change Full Keyboard Access to All Controls. Now you can go through dialog boxes with your keyboard.
