@@ -9,7 +9,7 @@ tags:
 
 For anyone who thinks [Reddit changing their policies and not allowing hate speech subreddits](http://www.redditblog.com/2015/05/promote-ideas-protect-people.html) on their platform is hurting your freedom of speech, I want to give you an overly simplistic view on what a website is. 
 
-A website lives on a computer, Reddit will have many computers, they are probably bigger than your laptop but as essentially the same thing. 
+A website lives on a computer, Reddit will have many computers, they are probably bigger than your laptop but they are essentially the same thing. 
 
 When you post to Reddit, that post will go into their computer. With me so far? Good. 
 
