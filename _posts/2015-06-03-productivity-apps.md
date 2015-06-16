@@ -4,7 +4,7 @@ title: Mac Apps I use to say productive
 categories:
 - Productivity
 ---
-These are some notes for a workshop I am giving on Mac productivity tools. These cover the main Mac apps that I use day to day that I would loosely describe as productivity apps.
+These are some notes for a [workshop I am giving on Mac productivity tools](http://tosbourn.com/mac-workshop/). These cover the main Mac apps that I use day to day that I would loosely describe as productivity apps.
 
 If you want to know more about a particular app or how I use it  let me know in the comments and I can write another post going into specific details.
 
