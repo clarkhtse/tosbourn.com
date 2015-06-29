@@ -46,18 +46,18 @@ This could be a location within your application by calling something like;
 
     redirect_to widgets_url
 
- Or it can be to a completely different website;
+Or it can be to a completely different website;
 
      redirect_to "http://tosbourn.com"
 
- By default Rails uses the 302 redirect, which is a temporary redirect. If you know any that traffic going to a certain place should always end up at a different place you should consider setting the status code to 301, which is a perminant redirect.
+By default Rails uses the 302 redirect, which is a temporary redirect. If you know any that traffic going to a certain place should always end up at a different place you should consider setting the status code to 301, which is a perminant redirect.
 
      redirect_to widgets_url, status: 301
 
- There is a great guide on the different status codes you should be worried about in this guide about [HTTP status codes to be worried about for SEO](http://developerseoguide.com/http-status-codes-for-seo)
+There is a great guide on the different status codes you should be worried about in this guide about [HTTP status codes to be worried about for SEO](http://developerseoguide.com/http-status-codes-for-seo)
 
- ## Know when to use each one
+## Know when to use each one
 
- You should not make the browser need to make a fresh call unless you really have to, so always question when you are using `redirect_to` and if it is the right thing, or perhaps a `render` would be better.
+You should not make the browser need to make a fresh call unless you really have to, so always question when you are using `redirect_to` and if it is the right thing, or perhaps a `render` would be better.
 
- A `render` doesn't change the URL of the page you are visiting, which can lead to a confusing user experience if they visit /foo but because of some render magic start seeing a layout associated with /bar
+A `render` doesn't change the URL of the page you are visiting, which can lead to a confusing user experience if they visit /foo but because of some render magic start seeing a layout associated with /bar
