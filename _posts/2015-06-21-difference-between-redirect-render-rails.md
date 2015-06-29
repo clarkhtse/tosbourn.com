@@ -5,6 +5,7 @@ categories:
 - Ruby
 tags:
 - Ruby
+description: Find out the difference between Render and Redirect in Rails
 ---
 
 To a brand new Rails developer the controller methods `render` and `redirect_to` might seem very similar. They both appear at the bottom of your controller method and they both (when done correctly) end up showing a page in your web browser.
