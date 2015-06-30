@@ -66,6 +66,7 @@ And here is it working so far.
 	}
 </script>
 
+
 In another blog post I will go through some thoughts on how I can make a quick colour selector for this, and also how I would go about counting / grabbing the highlighted words. 
 
 I want to eventually be able to say something like; 5 words were highlighted, and these were the words.
