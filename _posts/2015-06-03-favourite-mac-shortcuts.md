@@ -7,7 +7,7 @@ tags:
 - 
 ---
 
-Soon I am going to be delivering a short workshop on getting the most out of the Mac (for non dev folk) as preparation for this I wanted to detail out some of my favourite shortcuts in the applications that people taking the workshop use fairly regularly.
+Soon I am going to be delivering a short [workshop on getting the most out of the Mac](http://tosbourn.com/mac-workshop/) (for non dev folk) as preparation for this I wanted to detail out some of my favourite shortcuts in the applications that people taking the workshop use fairly regularly.
 
 ## Interacting with OS X
 

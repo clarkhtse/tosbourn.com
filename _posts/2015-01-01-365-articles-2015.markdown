@@ -33,9 +33,9 @@ If you run a site and would be interested in having me write something for you p
 
 ## The Articles
 
-Article Progress: 104/365
+Article Progress: 117/365
 
-<progress value="104" max="365"></progress>
+<progress value="117" max="365"></progress>
 
 Day of the year: <span id="day-of-year"></span>
 
@@ -48,7 +48,7 @@ var now = new Date(),
     diff = now - start,
     oneDay = 1000 * 60 * 60 * 24,
     day = Math.floor(diff / oneDay),
-    posts = 104,
+    posts = 117,
     postsPerDay = (365 - posts) / (365 - day);
 
 document.getElementById("day-of-year").textContent = day;
@@ -148,7 +148,7 @@ document.getElementById("posts-per-day").textContent = postsPerDay;
  85. [How to post to little logs from your
  terminal](https://github.com/tosbourn/littlelogs-cli)
  86. [I love Programming](/programming-love/)
- 87. [A way I sped up my internet on the mac](/nsurlsessionid/)
+ 87. [A way I sped up my internet on the mac](/nsurlsessiond/)
  88. [Getting good team information](https://thefootytipster.com/getting-good-team-information/)
  89. [iPhone photos not freeing up space when deleted](/iphone-photos-space/)
  90. [Never assume your wage is safe](/safe-pay/)
@@ -171,3 +171,16 @@ document.getElementById("posts-per-day").textContent = postsPerDay;
  SEO](http://developerseoguide.com/http-status-codes-for-seo/)
  104. [Getting HTTP Status Codes from the command
  line](http://developerseoguide.com/getting-https-status-codes-from-the-command-line/)
+ 105. [Hiding the doc for fun and profit!](http://tosbourn.com/hide-the-dock/)
+ 106. [Upping the tracking speed on your mouse](http://tosbourn.com/increase-mouse-speed/)
+ 107. [Some of my favourite Mac Shortcuts](http://tosbourn.com/favourite-mac-shortcuts/)
+ 108. [Mac Apps I use to stay productive](http://tosbourn.com/productivity-apps/)
+ 109. [A stupid post on vasectomies](http://tosbourn.com/7-things-about-vasectomies/)
+ 110. [A simple guide to how computers work for idiot Redditors!](http://tosbourn.com/note-for-reddit-haters/)
+ 111. [The quality of input and output](http://tosbourn.com/quality-of-input-output/)
+ 112. [Mac Productivity Workshop I took part in](http://tosbourn.com/mac-workshop/)
+ 113. [Mastering your Tools](http://tosbourn.com/mastering-tools/)
+ 114. [My iPhone is pretty much my main content generating computer now](http://tosbourn.com/iphone-main-content-computer/)
+ 115. [A short plee for questions for TheFootyTipster](https://thefootytipster.com/ask-us-your-questions/)
+ 116. [I ponder out loud about the future of football betting](https://thefootytipster.com/what-does-the-future-hold-for-football-betting/)
+ 117. [The difference between Render and Redirect in Rails](/difference-between-redirect-render-rails/)

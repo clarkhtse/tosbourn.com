@@ -9,22 +9,23 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon">
   <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   <meta content="{{ site.title }}" property="og:site_name">
   {% if page.title %}<meta content="{{ page.title }}" property="og:title">{% else %}<meta content="{{ site.title }}" property="og:title">{% endif %}
   {% if page.title %}<meta content="article" property="og:type">{% else %}<meta content="website" property="og:type">{% endif %}
   {% if page.description %}<meta content="{{ page.description }}" property="og:description">{% else %}<meta content="{{ site.description }}" property="og:description">{% endif %}
-  {% if page.url %}<meta content="{{ site.url }}{{ page.url }}/" property="og:url">{% endif %}
+  {% if page.url %}<meta content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/" property="og:url">{% endif %}
   {% if page.date %}<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">{% endif %}
   <meta content="{{ site.url }}/img/toby.jpeg" property="og:image">
+  <meta property="article:author" content="https://www.facebook.com/tosbourn" />
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@tosbourn">
   <meta name="twitter:creator" content="@tosbourn">
   {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.title }}">{% endif %}
-  {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
+  {% if page.url %}<meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}/">{% endif %}
   {% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% else %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
   <meta name="twitter:image:src" content="{{ site.url }}/img/toby.jpeg">
 </head>
